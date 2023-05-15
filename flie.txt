@@ -1,1 +1,1 @@
-새로운 파일 file.txt
+새로운 파일 file.txt 
