@@ -1,7 +1,1 @@
-새로운 파일 file.txt 
-
-이외에 파일 하나 폴더 하나
-
-hello world
-
-lksajdl;fj;lsadjfl;kads
+새로운 파일 file.txt
