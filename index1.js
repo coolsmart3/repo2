@@ -1,1 +1,1 @@
-console.log("hello world!");
+<p>새로운 파일 file.txt</p>
